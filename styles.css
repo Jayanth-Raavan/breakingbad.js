@@ -14,12 +14,12 @@
 }
 
 .header {
-  background: url("https://raw.githubusercontent.com/raashika03/BBC/main/i1.jpg");
-  overflow: hidden;
+  background: url("");
+  overflow: scroll;
 }
 
 .transbox {
-  color: black;
+  color: rgb(39, 123, 156);
 }
 
 .img1 img {
@@ -33,31 +33,31 @@
 }
 
 .topnav {
-  background-color: #804811;
+  background-color: #2385a3;
   overflow: hidden;
   color: white;
 }
 
 a {
   text-decoration: none;
-  color: rgb(63, 30, 1);
+  color: rgb(1, 37, 240);
 }
 
 .topnav a {
   float: left;
   display: block;
-  color: black;
+  color: rgb(243, 243, 243);
   text-align: center;
   padding: 14px 20px;
   text-decoration: none;
 }
 
 .topnav a:hover {
-  background-color: #50340b;
+  background-color: #00d6fc;
 }
 
 .topnav a.active {
-  background-color: #50340b;
+  background-color: #00d6fc;
 }
 
 .search-container {
@@ -88,14 +88,14 @@ form.example input[type="text"] {
 form.example button {
   margin: 5px 0px 5px 0px;
   padding: 10px;
-  background: rgb(155, 135, 68);
+  background: rgba(242, 247, 0, 0);
   font-size: 17px;
   border: none;
   cursor: pointer;
 }
 
 form.example button:hover {
-  background: #dbaa09;
+  background: #07e4c6;
 }
 
 form.example::after {
@@ -109,7 +109,7 @@ form.example::after {
   display: flex;
   -ms-flex-wrap: wrap; /* IE10 */
   flex-wrap: wrap;
-  background-color: #e6cab3;
+  background-color: #1e5ba185;
 }
 
 .books {
@@ -122,8 +122,8 @@ form.example::after {
   border-radius: 15px;
   padding: 20px;
   margin: 10px;
-  color: #333;
-  background-color: #ecddd0;
+  color: rgb(255, 255, 255);
+  background-color: #31a0c2e0;
 }
 
 .book h3 {
@@ -152,7 +152,7 @@ form.example::after {
 }
 
 nav {
-  background-color: #d4ad8c;
+  background-color: #8cc9d4;
 }
 
 nav:before {
@@ -165,17 +165,17 @@ nav:after {
 
 .pagination a {
   color: black;
-  background-color: #d8730f;
+  background-color: #c4d80f;
   float: left;
   padding: 8px 16px;
   text-decoration: none;
   transition: background-color 0.3s;
-  border: 1px solid rgba(88, 57, 9, 0.658);
+  border: 1px solid rgba(88, 9, 77, 0.658);
   font-size: 22px;
 }
 
 .pagination a.active {
-  background-color: #4caf50;
+  background-color: #1e6994;
   color: rgb(58, 54, 54);
   border: 1px solid #4caf50;
 }
@@ -186,7 +186,7 @@ nav:after {
 
 .footer-content {
   text-align: center;
-  background: url("https://raw.githubusercontent.com/raashika03/BBC/main/img/bb5.jpg");
+  background: url("");
   overflow: hidden;
 }
 
