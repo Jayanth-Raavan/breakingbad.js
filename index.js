@@ -35,7 +35,7 @@ const App = () => {
           <h1>Breaking Bad Characters</h1>
           <div className="img1">
             <img
-              src="&amp;u=81836d78246a7e3c0724635018ab93450d6ba9e6&amp;v=4&amp;u=81836d78246a7e3c0724635018ab93450d6ba9e6&amp;v=4"
+              src="https://avatars.githubusercontent.com/u/89127807?v=4&u=20734b013d55efb634397a49223ffb7842bb758d&v=4&amp;u=81836d78246a7e3c0724635018ab93450d6ba9e6&amp;v=4&amp;u=81836d78246a7e3c0724635018ab93450d6ba9e6&amp;v=4"
               alt="Jayanth Raavan"
               width="80"
             ></img>
